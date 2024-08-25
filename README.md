@@ -7,7 +7,7 @@ From Zero Repository for doing Python DevOps work
 
 ### Colab Notbook
 
-* This is an examp;e pf how to use colab
+* This is an example pf how to use colab
 
 ### Github Codespaces
 ### AWS CloudShell
