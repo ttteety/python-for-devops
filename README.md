@@ -15,7 +15,7 @@ From Zero Repository for doing Python DevOps work
 
 Build out python project scaffold:
 
-* Makefile
+* [Makefile] (https://github.com/ttteety/python-for-devops/blob/main/Makefile)
 * requirements.txt
 * test_library.py
 * python_library
