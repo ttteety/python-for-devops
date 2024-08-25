@@ -15,7 +15,7 @@ From Zero Repository for doing Python DevOps work
 
 Build out python project scaffold:
 
-* Makefile
+* [Makefile] (https://github.com/ttteety/python-for-devops/blob/main/Makefile)
 * requirements.txt
 * test_library.py
 * python_library
@@ -24,7 +24,8 @@ Build out python project scaffold:
 * Microservice
 
 1. Create a virtualenv: `virtualenv ~/.venv`
-2. edit my `~/.bashrc`
+2. edit my `~/.bashrc` `source ~/.venv/bin/activate`
+3. clone project then run `make all`
 
 ### AWS CloudShell
 ### AWS Cloud9
